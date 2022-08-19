@@ -18,3 +18,4 @@ _vault_nix_distros:
   - 'OracleLinux'
   - 'Flatcar'
   - 'FreeBSD'
+  - 'AlmaLinux'
