@@ -5,3 +5,5 @@ vault_os_packages:
   - python3-libselinux
   - git
   - unzip
+
+vault_bin_path: /usr/bin
